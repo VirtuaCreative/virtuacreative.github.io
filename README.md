@@ -1,6 +1,6 @@
-### [Virtua Creative on GitHub](virtuacreative.github.io)
+### [Virtua Creative on GitHub](http://virtuacreative.github.io)
 
-Home Page for Virtua Creative GitHub Pages Projects
+Welcoming page for **Virtua Creative GitHub Pages Projects**
 
 Give a look at:
 
